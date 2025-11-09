@@ -1,0 +1,40 @@
+{
+    "15011471927": {
+        "Name": "Gap filled swirl",
+        "Keywords": ["Swirl"],
+        "Grid": 4,
+        "Resolution": 1024
+    },
+    "112418500538896": {
+        "Name": "Galaxy Swirl",
+        "Keywords": ["Swirl"],
+        "Grid": 4,
+        "Resolution": 1024
+    },
+    "112534150791266": {
+        "Name": "Swirls2",
+        "Keywords": ["Swirl"],
+        "Resolution": 604
+    },
+    "71471490981713": {
+        "Name": "Swirls3",
+        "Keywords": ["Swirl"],
+        "Resolution": 604
+    },
+    "96804865965117": {
+        "Name": "Swirls4",
+        "Keywords": ["Swirl"],
+        "Resolution": 604
+    },
+    "71714191348492": {
+        "Name": "Beam133",
+        "Keywords": ["Beam"],
+        "Resolution": 3300
+    },
+    "114079423110586": {
+        "Name": "Beam134",
+        "Keywords": ["Beam"],
+        "Resolution": 1920
+    }
+}
+

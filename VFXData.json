@@ -1,78 +1,40 @@
 {
-    "85335370754480": {
-        "Name": "100 Emoji",
-        "Keywords": ["Text"],
-        "Grid": 8,
-        "Resolution": 1024
-    },
-    "111521186167374": {
-        "Name": "Chromatic Math Function Mirrored 1",
-        "Keywords": ["Other"],
-        "Resolution": 1024
-    },
-    "110665615003828": {
-        "Name": "Chromatic Math Function Mirrored 2",
-        "Keywords": ["Other"],
-        "Resolution": 1024
-    },
-    "102545319586789": {
-        "Name": "Chromatic Math Function Mirrored 3",
-        "Keywords": ["Other"],
-        "Resolution": 1024
-    },
-    "113607907325717": {
-        "Name": "Colored Menacing",
-        "Keywords": ["Energy"],
-        "Grid": 8,
-        "Resolution": 2048
-    },
-    "98487978946381": {
-        "Name": "Glitchy Chromatic Play",
-        "Keywords": ["Energy"],
+    "15011471927": {
+        "Name": "Gap filled swirl",
+        "Keywords": ["Swirl"],
         "Grid": 4,
         "Resolution": 1024
     },
-    "129883392677393": {
-        "Name": "Glitchy Interrobang",
-        "Keywords": ["Energy"],
-        "Grid": 8,
+    "112418500538896": {
+        "Name": "Galaxy Swirl",
+        "Keywords": ["Swirl"],
+        "Grid": 4,
         "Resolution": 1024
     },
-    "73219852623011": {
-        "Name": "Gradient Roman Numerals",
-        "Keywords": ["Text"],
-        "Grid": 8,
-        "Resolution": 1024
+    "112534150791266": {
+        "Name": "Swirls2",
+        "Keywords": ["Swirl"],
+        "Resolution": 604
     },
-    "126021387747412": {
-        "Name": "Japanese Bam",
-        "Keywords": ["Text"],
-        "Resolution": 1024
+    "71471490981713": {
+        "Name": "Swirls3",
+        "Keywords": ["Swirl"],
+        "Resolution": 604
     },
-    "96029421829355": {
-        "Name": "Japanese Death",
-        "Keywords": ["Text"],
-        "Resolution": 1024
+    "96804865965117": {
+        "Name": "Swirls4",
+        "Keywords": ["Swirl"],
+        "Resolution": 604
     },
-    "77808837451351": {
-        "Name": "Japanese Fade In",
-        "Keywords": ["Text"],
-        "Grid": 8,
-        "Resolution": 2048
+    "71714191348492": {
+        "Name": "Beam133",
+        "Keywords": ["Beam"],
+        "Resolution": 3300
     },
-    "78900931451131": {
-        "Name": "Japanese Katakana",
-        "Keywords": ["Text"],
-        "Resolution": 1024
-    },
-    "90021863356981": {
-        "Name": "Japanese Symbols",
-        "Keywords": ["Text"],
-        "Resolution": 1024
-    },
-    "95154484655161": {
-        "Name": "Level Up Graphic",
-        "Keywords": ["Other"],
-        "Resolution": 1024
+    "114079423110586": {
+        "Name": "Beam134",
+        "Keywords": ["Beam"],
+        "Resolution": 1920
     }
 }
+
